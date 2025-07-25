@@ -1,0 +1,11 @@
+properties
+     # Template for DaYouReminder_BLE app configuration.
+     #
+     # 1. COPY this file.
+     # 2. RENAME the copy to "ble_config.properties" (remove ".template").
+     # 3. EDIT "ble_config.properties" and replace the placeholder value
+     #    with the actual MAC address of your ESP32 device.
+     #
+     # The "ble_config.properties" file itself is gitignored.
+
+     TARGET_BLE_MAC_ADDRESS=YOUR_ESP32_MAC_ADDRESS_HERE
